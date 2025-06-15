@@ -10,7 +10,7 @@
 * [Dashboard](#dashboard)
 
 ## Case Study
-Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
+Restaurant ratings in Chicago by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
 ## Dataset Description
 Our data set consists of the following observations which include:
 
